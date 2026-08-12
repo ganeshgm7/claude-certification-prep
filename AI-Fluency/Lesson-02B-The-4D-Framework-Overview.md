@@ -1,5 +1,7 @@
 # Lesson 2B — The 4D Framework Overview
 
+[⬅ Previous: Lesson 2A — Why Do We Need AI Fluency?](./Lesson-02A-Why-Do-We-Need-AI-Fluency.md) · [🏠 Course Home](./README.md) · [Next: Lesson 3A — What is Generative AI? ➡](./Lesson-03A-What-is-Generative-AI.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -203,3 +205,7 @@ When an AI output does not meet your needs, the next step is to improve your **D
 The 4 Ds are **interlocking competencies** that work together. They are not strictly sequential — you may revisit Delegation if Discernment reveals a fundamental problem. Most importantly, **Diligence is not a final step** — it is a continuous mindset of responsibility, ethics, and accountability that runs throughout every interaction, from the moment you decide to use AI to the moment you share the final output.
 
 </details>
+
+---
+
+[⬅ Previous: Lesson 2A — Why Do We Need AI Fluency?](./Lesson-02A-Why-Do-We-Need-AI-Fluency.md) · [🏠 Course Home](./README.md) · [Next: Lesson 3A — What is Generative AI? ➡](./Lesson-03A-What-is-Generative-AI.md)

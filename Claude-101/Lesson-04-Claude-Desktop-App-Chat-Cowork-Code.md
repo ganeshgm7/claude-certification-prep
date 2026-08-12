@@ -1,5 +1,7 @@
 # Lesson 4 — Claude Desktop App: Chat, Cowork, Code
 
+[⬅ Previous: Lesson 3 — Getting Better Results](./Lesson-03-Getting-Better-Results.md) · [🏠 Course Home](./README.md) · [Next: Lesson 5 — Introduction to Projects ➡](./Lesson-05-Introduction-to-Projects.md)
+
 > **Estimated time:** 6 minutes
 
 ---
@@ -125,3 +127,7 @@ You can run multiple sessions across projects, filtered by status (Active/Archiv
 ### ⏭️ What's Next
 
 Next module: **Organizing your work and knowledge**, starting with Projects.
+
+---
+
+[⬅ Previous: Lesson 3 — Getting Better Results](./Lesson-03-Getting-Better-Results.md) · [🏠 Course Home](./README.md) · [Next: Lesson 5 — Introduction to Projects ➡](./Lesson-05-Introduction-to-Projects.md)

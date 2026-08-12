@@ -1,5 +1,7 @@
 # Lesson 4 — A Closer Look at Delegation
 
+[⬅ Previous: Lesson 3B — Capabilities & Limitations](./Lesson-03B-Capabilities-and-Limitations.md) · [🏠 Course Home](./README.md) · [Next: Lesson 6 — A Closer Look at Description ➡](./Lesson-06-A-Closer-Look-at-Description.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -178,3 +180,7 @@ For enterprise deployments, **data handling and privacy policies** are the most 
 A **final hiring decision** involves significant human judgment, ethical responsibility, legal accountability, and cultural considerations that go beyond what AI can reliably handle. This is a "critical judgment" category task — AI can assist (screen resumes, surface candidates, draft interview questions) but the final decision must remain with a human who carries professional and organisational accountability. Options A, B, and D are all appropriate for AI assistance or automation.
 
 </details>
+
+---
+
+[⬅ Previous: Lesson 3B — Capabilities & Limitations](./Lesson-03B-Capabilities-and-Limitations.md) · [🏠 Course Home](./README.md) · [Next: Lesson 6 — A Closer Look at Description ➡](./Lesson-06-A-Closer-Look-at-Description.md)

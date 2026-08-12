@@ -1,5 +1,7 @@
 # Lesson 12 — Other Ways to Work with Claude
 
+[⬅ Previous: Lesson 11 — Claude in Action: Use-Cases by Role](./Lesson-11-Claude-in-Action-Use-Cases-by-Role.md) · [🏠 Course Home](./README.md) · [Quick Reference ➡](./Quick-Reference.md)
+
 > **Estimated time:** 10 minutes
 
 ---
@@ -151,3 +153,7 @@ A browser extension that adds Claude as a sidebar in Google Chrome. It can obser
 ### ⏭️ What's Next
 
 This wraps up the lesson content of Claude 101. The course itself closes with a short recap and a quiz to earn your **certificate of completion**, which you can share on LinkedIn and with your team. *(Note: the detailed content for the "Conclusion & Certificate" module — including the recap and quiz — was not provided in the source material for these notes, so it isn't covered here.)*
+
+---
+
+[⬅ Previous: Lesson 11 — Claude in Action: Use-Cases by Role](./Lesson-11-Claude-in-Action-Use-Cases-by-Role.md) · [🏠 Course Home](./README.md) · [Quick Reference ➡](./Quick-Reference.md)

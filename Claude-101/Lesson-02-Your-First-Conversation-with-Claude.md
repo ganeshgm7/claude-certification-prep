@@ -1,5 +1,7 @@
 # Lesson 2 — Your First Conversation with Claude
 
+[⬅ Previous: Lesson 1 — What is Claude](./Lesson-01-What-is-Claude.md) · [🏠 Course Home](./README.md) · [Next: Lesson 3 — Getting Better Results ➡](./Lesson-03-Getting-Better-Results.md)
+
 > **Estimated time:** 20 minutes
 
 ---
@@ -124,3 +126,7 @@ There are two features that make Claude work better for you over time:
 ### ⏭️ What's Next
 
 In the next lesson, you'll explore how to give Claude direction — adjusting its tone, format, and approach to match exactly what you need, plus common troubleshooting techniques and a simple way to evaluate how well Claude performs on your specific tasks.
+
+---
+
+[⬅ Previous: Lesson 1 — What is Claude](./Lesson-01-What-is-Claude.md) · [🏠 Course Home](./README.md) · [Next: Lesson 3 — Getting Better Results ➡](./Lesson-03-Getting-Better-Results.md)

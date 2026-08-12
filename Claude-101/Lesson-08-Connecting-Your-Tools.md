@@ -1,5 +1,7 @@
 # Lesson 8 — Connecting Your Tools
 
+[⬅ Previous: Lesson 7 — Working with Skills](./Lesson-07-Working-with-Skills.md) · [🏠 Course Home](./README.md) · [Next: Lesson 9 — Enterprise Search ➡](./Lesson-09-Enterprise-Search.md)
+
 > **Estimated time:** 20 minutes
 
 ---
@@ -113,3 +115,7 @@ When you connect Claude to an external service, you're granting it access to rea
 ### ⏭️ What's Next
 
 In the next lesson, you'll learn about **Enterprise Search** — a specialised feature for Claude for Work users that connects Claude to your organisation's knowledge sources, with custom prompts optimised for your company's context.
+
+---
+
+[⬅ Previous: Lesson 7 — Working with Skills](./Lesson-07-Working-with-Skills.md) · [🏠 Course Home](./README.md) · [Next: Lesson 9 — Enterprise Search ➡](./Lesson-09-Enterprise-Search.md)

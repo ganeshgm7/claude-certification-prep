@@ -1,5 +1,7 @@
 # Lesson 7 — Effective Prompting Techniques (Deep Dive)
 
+[⬅ Previous: Lesson 6 — A Closer Look at Description](./Lesson-06-A-Closer-Look-at-Description.md) · [🏠 Course Home](./README.md) · [Next: Lesson 8 — A Closer Look at Discernment ➡](./Lesson-08-A-Closer-Look-at-Discernment.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -252,3 +254,7 @@ The course makes an important distinction: asking Claude to *think first* (befor
 The **"ask Claude to improve your prompt"** technique is the secret weapon for exactly this situation. When you know what you want but cannot figure out how to ask for it, describe your goal and your challenge to Claude and ask it to help you craft a better prompt. Claude can ask clarifying questions, suggest relevant context to include, and propose a structured prompt template. This is often faster and more effective than continuing to iterate on a poorly structured prompt on your own.
 
 </details>
+
+---
+
+[⬅ Previous: Lesson 6 — A Closer Look at Description](./Lesson-06-A-Closer-Look-at-Description.md) · [🏠 Course Home](./README.md) · [Next: Lesson 8 — A Closer Look at Discernment ➡](./Lesson-08-A-Closer-Look-at-Discernment.md)

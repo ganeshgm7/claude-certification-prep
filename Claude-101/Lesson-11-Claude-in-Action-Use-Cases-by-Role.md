@@ -1,5 +1,7 @@
 # Lesson 11 — Claude in Action: Use-Cases by Role
 
+[⬅ Previous: Lesson 10 — Research Mode for Deep Dives](./Lesson-10-Research-Mode-for-Deep-Dives.md) · [🏠 Course Home](./README.md) · [Next: Lesson 12 — Other Ways to Work with Claude ➡](./Lesson-12-Other-Ways-to-Work-with-Claude.md)
+
 > **Estimated time:** 10 minutes
 
 ---
@@ -94,3 +96,7 @@ These examples are just the beginning. The full **Use Case Gallery** (claude.com
 ### ⏭️ What's Next
 
 In our final module, you'll meet a few more ways to work with Claude — including **Claude Code, @Claude, Claude Design, Claude for Microsoft 365, and Claude in Chrome** — each tailored to where the work actually happens.
+
+---
+
+[⬅ Previous: Lesson 10 — Research Mode for Deep Dives](./Lesson-10-Research-Mode-for-Deep-Dives.md) · [🏠 Course Home](./README.md) · [Next: Lesson 12 — Other Ways to Work with Claude ➡](./Lesson-12-Other-Ways-to-Work-with-Claude.md)

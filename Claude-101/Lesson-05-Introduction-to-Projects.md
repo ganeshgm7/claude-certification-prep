@@ -1,5 +1,7 @@
 # Lesson 5 — Introduction to Projects
 
+[⬅ Previous: Lesson 4 — Claude Desktop App](./Lesson-04-Claude-Desktop-App-Chat-Cowork-Code.md) · [🏠 Course Home](./README.md) · [Next: Lesson 6 — Creating with Artifacts ➡](./Lesson-06-Creating-with-Artifacts.md)
+
 > **Estimated time:** 20 minutes
 
 ---
@@ -135,3 +137,7 @@ Once your project is set up, just start chatting. Every conversation inside the 
 ### ⏭️ What's Next
 
 In the next lesson, you'll learn how to create mini-apps and outputs with **Artifacts** — actual, usable things Claude builds that you can share right away.
+
+---
+
+[⬅ Previous: Lesson 4 — Claude Desktop App](./Lesson-04-Claude-Desktop-App-Chat-Cowork-Code.md) · [🏠 Course Home](./README.md) · [Next: Lesson 6 — Creating with Artifacts ➡](./Lesson-06-Creating-with-Artifacts.md)

@@ -1,5 +1,7 @@
 # Lesson 11 — Conclusion & Key Takeaways
 
+[⬅ Previous: Lesson 10 — A Closer Look at Diligence](./Lesson-10-A-Closer-Look-at-Diligence.md) · [🏠 Course Home](./README.md) · [Quick Reference ➡](./Quick-Reference.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -173,3 +175,7 @@ Identifying which tasks in your workflow could benefit from AI assistance is exa
 The 4 Ds are designed to be **broadly applicable** (across all generative AI assistants), **interdependent** (they work together and inform each other), and **practice-dependent** (they develop through real-world application, not just conceptual understanding). AI Fluency is a continuous journey — as AI capabilities evolve and your own expertise deepens, your application of the 4 Ds will deepen too. The competencies are deliberately not tied to any specific AI system, which is what makes them durable.
 
 </details>
+
+---
+
+[⬅ Previous: Lesson 10 — A Closer Look at Diligence](./Lesson-10-A-Closer-Look-at-Diligence.md) · [🏠 Course Home](./README.md) · [Quick Reference ➡](./Quick-Reference.md)

@@ -1,5 +1,7 @@
 # Lesson 6 — Creating with Artifacts
 
+[⬅ Previous: Lesson 5 — Introduction to Projects](./Lesson-05-Introduction-to-Projects.md) · [🏠 Course Home](./README.md) · [Next: Lesson 7 — Working with Skills ➡](./Lesson-07-Working-with-Skills.md)
+
 > **Estimated time:** 20 minutes
 
 ---
@@ -104,3 +106,7 @@ When Claude generates an artifact, it appears in a dedicated window to the right
 ### ⏭️ What's Next
 
 In the next lesson, you'll learn about **Skills** — reusable instruction sets that teach Claude specialised workflows.
+
+---
+
+[⬅ Previous: Lesson 5 — Introduction to Projects](./Lesson-05-Introduction-to-Projects.md) · [🏠 Course Home](./README.md) · [Next: Lesson 7 — Working with Skills ➡](./Lesson-07-Working-with-Skills.md)

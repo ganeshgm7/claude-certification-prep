@@ -1,5 +1,7 @@
 # Lesson 2A — Why Do We Need AI Fluency?
 
+[⬅ Previous: Lesson 1 — Introduction to AI Fluency](./Lesson-01-Introduction-to-AI-Fluency.md) · [🏠 Course Home](./README.md) · [Next: Lesson 2B — The 4D Framework Overview ➡](./Lesson-02B-The-4D-Framework-Overview.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -171,3 +173,7 @@ This is **Agency** — Claude is operating independently, handling an ongoing st
 First, **Augmentation** — the developer used Claude as a thinking partner to explore architectural tradeoffs. Then, **Automation** — once the decision was made, Claude was given a clear task (generate boilerplate code) and executed it. This is actually the most powerful pattern in practice: explore first through augmentation, then execute through automation.
 
 </details>
+
+---
+
+[⬅ Previous: Lesson 1 — Introduction to AI Fluency](./Lesson-01-Introduction-to-AI-Fluency.md) · [🏠 Course Home](./README.md) · [Next: Lesson 2B — The 4D Framework Overview ➡](./Lesson-02B-The-4D-Framework-Overview.md)

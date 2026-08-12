@@ -1,5 +1,7 @@
 # Lesson 8 — A Closer Look at Discernment
 
+[⬅ Previous: Lesson 7 — Effective Prompting Techniques](./Lesson-07-Effective-Prompting-Techniques.md) · [🏠 Course Home](./README.md) · [Next: Lesson 10 — A Closer Look at Diligence ➡](./Lesson-10-A-Closer-Look-at-Diligence.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -184,3 +186,7 @@ This is primarily a **Process Discernment** issue — specifically, an **attenti
 When the output fundamentally misses the objective, the root cause is almost always a **Description** failure — the initial prompt did not communicate the actual goal clearly enough. The remedy is to go back, improve your Product Description (clearer objective statement), and regenerate. Editing section by section (Option A) is inefficient when the foundation is wrong. Option D (rethinking Delegation) is relevant only if repeated Description improvement still does not produce the right output — suggesting AI may genuinely be the wrong tool for this particular task.
 
 </details>
+
+---
+
+[⬅ Previous: Lesson 7 — Effective Prompting Techniques](./Lesson-07-Effective-Prompting-Techniques.md) · [🏠 Course Home](./README.md) · [Next: Lesson 10 — A Closer Look at Diligence ➡](./Lesson-10-A-Closer-Look-at-Diligence.md)

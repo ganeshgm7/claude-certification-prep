@@ -1,5 +1,7 @@
 # Lesson 7 — Working with Skills
 
+[⬅ Previous: Lesson 6 — Creating with Artifacts](./Lesson-06-Creating-with-Artifacts.md) · [🏠 Course Home](./README.md) · [Next: Lesson 8 — Connecting Your Tools ➡](./Lesson-08-Connecting-Your-Tools.md)
+
 > **Estimated time:** 15 minutes
 
 > **Plan availability:** Skills are currently a feature preview for Pro, Max, Team, and Enterprise plans. If you're on the Free plan, read along to understand the concept and skip the hands-on steps.
@@ -130,3 +132,7 @@ The two complement each other. A Skill can even reference knowledge stored in a 
 ### ⏭️ What's Next
 
 Next module: **Expanding Claude's reach** — starting with Connectors, which make information gathering seamless and let Claude perform actions right inside the tools where your work is happening.
+
+---
+
+[⬅ Previous: Lesson 6 — Creating with Artifacts](./Lesson-06-Creating-with-Artifacts.md) · [🏠 Course Home](./README.md) · [Next: Lesson 8 — Connecting Your Tools ➡](./Lesson-08-Connecting-Your-Tools.md)

@@ -1,5 +1,7 @@
 # Lesson 9 — Enterprise Search
 
+[⬅ Previous: Lesson 8 — Connecting Your Tools](./Lesson-08-Connecting-Your-Tools.md) · [🏠 Course Home](./README.md) · [Next: Lesson 10 — Research Mode for Deep Dives ➡](./Lesson-10-Research-Mode-for-Deep-Dives.md)
+
 > **Estimated time:** 15 minutes
 
 > **Plan availability:** Enterprise Search is available on Team and Enterprise plans, and must be enabled by a workspace admin. If you're on a Free, Pro, or Max plan, you can skip this lesson.
@@ -121,3 +123,7 @@ Yes. Enterprise Search only shows what you **already have permission to access**
 ### ⏭️ What's Next
 
 In the next lesson, you'll learn about **Research mode** — Claude's capability for deep, multi-step investigations that go beyond quick lookups to comprehensive analysis.
+
+---
+
+[⬅ Previous: Lesson 8 — Connecting Your Tools](./Lesson-08-Connecting-Your-Tools.md) · [🏠 Course Home](./README.md) · [Next: Lesson 10 — Research Mode for Deep Dives ➡](./Lesson-10-Research-Mode-for-Deep-Dives.md)

@@ -1,5 +1,7 @@
 # Lesson 3A — What is Generative AI? (Deep Dive)
 
+[⬅ Previous: Lesson 2B — The 4D Framework Overview](./Lesson-02B-The-4D-Framework-Overview.md) · [🏠 Course Home](./README.md) · [Next: Lesson 3B — Capabilities & Limitations ➡](./Lesson-03B-Capabilities-and-Limitations.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -221,3 +223,7 @@ Claude is **generating** new text, not retrieving pre-written answers. It proces
 The **context window** is the maximum amount of text — including your prompt history, the AI's responses, and any documents you have shared — that the model can consider at once. When this limit is exceeded, the model drops the oldest information from the beginning of the conversation (first-in, first-out). This can cause the model to appear to "forget" things you mentioned earlier. Planning context window usage carefully is an important practical skill for building AI-powered applications.
 
 </details>
+
+---
+
+[⬅ Previous: Lesson 2B — The 4D Framework Overview](./Lesson-02B-The-4D-Framework-Overview.md) · [🏠 Course Home](./README.md) · [Next: Lesson 3B — Capabilities & Limitations ➡](./Lesson-03B-Capabilities-and-Limitations.md)

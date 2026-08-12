@@ -1,5 +1,7 @@
 # Lesson 10 — Research Mode for Deep Dives
 
+[⬅ Previous: Lesson 9 — Enterprise Search](./Lesson-09-Enterprise-Search.md) · [🏠 Course Home](./README.md) · [Next: Lesson 11 — Claude in Action: Use-Cases by Role ➡](./Lesson-11-Claude-in-Action-Use-Cases-by-Role.md)
+
 > **Estimated time:** 15 minutes
 
 ---
@@ -117,3 +119,7 @@ You can steer Claude directly: "Pull relevant context from my Google Drive" or "
 ### ⏭️ What's Next
 
 Next module: **Putting it all together** — real-world use cases organised by role, and additional ways to interact with Claude beyond the web interface.
+
+---
+
+[⬅ Previous: Lesson 9 — Enterprise Search](./Lesson-09-Enterprise-Search.md) · [🏠 Course Home](./README.md) · [Next: Lesson 11 — Claude in Action: Use-Cases by Role ➡](./Lesson-11-Claude-in-Action-Use-Cases-by-Role.md)

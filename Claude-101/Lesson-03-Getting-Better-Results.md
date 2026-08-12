@@ -1,5 +1,7 @@
 # Lesson 3 — Getting Better Results
 
+[⬅ Previous: Lesson 2 — Your First Conversation with Claude](./Lesson-02-Your-First-Conversation-with-Claude.md) · [🏠 Course Home](./README.md) · [Next: Lesson 4 — Claude Desktop App ➡](./Lesson-04-Claude-Desktop-App-Chat-Cowork-Code.md)
+
 > **Estimated time:** 15 minutes
 
 ---
@@ -123,3 +125,7 @@ This testing approach works for any analytical task — donor analysis, budget f
 ### ⏭️ What's Next
 
 In the next lesson, you'll explore the Claude desktop app and its three interaction modes: **Chat, Cowork, and Code.**
+
+---
+
+[⬅ Previous: Lesson 2 — Your First Conversation with Claude](./Lesson-02-Your-First-Conversation-with-Claude.md) · [🏠 Course Home](./README.md) · [Next: Lesson 4 — Claude Desktop App ➡](./Lesson-04-Claude-Desktop-App-Chat-Cowork-Code.md)

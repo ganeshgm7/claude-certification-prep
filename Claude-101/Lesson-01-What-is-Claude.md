@@ -1,5 +1,7 @@
 # Lesson 1 — What is Claude
 
+[🏠 Course Home](./README.md) · [Next: Lesson 2 — Your First Conversation with Claude ➡](./Lesson-02-Your-First-Conversation-with-Claude.md)
+
 > **Estimated time:** 15 minutes
 
 ---
@@ -112,3 +114,7 @@ Remember — Claude is the *intelligence*. That same intelligence is available t
 ### ⏭️ What's Next
 
 In the next lesson, you will learn how to navigate the Claude interface, start your first conversation, and understand the basics of how Claude responds.
+
+---
+
+[🏠 Course Home](./README.md) · [Next: Lesson 2 — Your First Conversation with Claude ➡](./Lesson-02-Your-First-Conversation-with-Claude.md)

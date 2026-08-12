@@ -1,5 +1,7 @@
 # Lesson 10 — A Closer Look at Diligence
 
+[⬅ Previous: Lesson 8 — A Closer Look at Discernment](./Lesson-08-A-Closer-Look-at-Discernment.md) · [🏠 Course Home](./README.md) · [Next: Lesson 11 — Conclusion & Key Takeaways ➡](./Lesson-11-Conclusion-and-Key-Takeaways.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -200,3 +202,7 @@ This is a **Transparency Diligence** violation. The security review committee is
 This is a **Deployment Diligence** failure. The team applied a lower quality bar to AI-generated content than they would apply to professionally researched legal work. Regulatory information is exactly the kind of factual, specific, high-stakes content that requires independent verification — especially given LLMs' knowledge cutoff limitations and hallucination tendencies. Deployment Diligence requires taking full professional responsibility for AI-assisted output, including the same rigorous fact-checking you would apply to content you wrote entirely yourself.
 
 </details>
+
+---
+
+[⬅ Previous: Lesson 8 — A Closer Look at Discernment](./Lesson-08-A-Closer-Look-at-Discernment.md) · [🏠 Course Home](./README.md) · [Next: Lesson 11 — Conclusion & Key Takeaways ➡](./Lesson-11-Conclusion-and-Key-Takeaways.md)

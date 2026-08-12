@@ -1,5 +1,7 @@
 # Lesson 3B — Capabilities & Limitations of Generative AI
 
+[⬅ Previous: Lesson 3A — What is Generative AI?](./Lesson-03A-What-is-Generative-AI.md) · [🏠 Course Home](./README.md) · [Next: Lesson 4 — A Closer Look at Delegation ➡](./Lesson-04-A-Closer-Look-at-Delegation.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -205,3 +207,7 @@ This is a classic **hallucination** scenario, compounded by the **knowledge cuto
 **RAG (Retrieval Augmented Generation)** is a technique where, before generating a response, the system retrieves relevant, accurate, and up-to-date information from an external knowledge base (such as a company's internal documents, a live database, or a curated knowledge store) and provides it to the model as context. This addresses two major limitations: (1) the **knowledge cutoff** — RAG can provide current information regardless of training date; and (2) **hallucination** — grounding responses in retrieved factual content reduces the model's tendency to fabricate information.
 
 </details>
+
+---
+
+[⬅ Previous: Lesson 3A — What is Generative AI?](./Lesson-03A-What-is-Generative-AI.md) · [🏠 Course Home](./README.md) · [Next: Lesson 4 — A Closer Look at Delegation ➡](./Lesson-04-A-Closer-Look-at-Delegation.md)

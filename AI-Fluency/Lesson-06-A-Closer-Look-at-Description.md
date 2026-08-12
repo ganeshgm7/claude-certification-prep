@@ -1,5 +1,7 @@
 # Lesson 6 — A Closer Look at Description
 
+[⬅ Previous: Lesson 4 — A Closer Look at Delegation](./Lesson-04-A-Closer-Look-at-Delegation.md) · [🏠 Course Home](./README.md) · [Next: Lesson 7 — Effective Prompting Techniques ➡](./Lesson-07-Effective-Prompting-Techniques.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -185,3 +187,7 @@ Option C demonstrates all three types of Description: **Product** (performance b
 **Performance Description can and should be applied mid-conversation.** Simply tell Claude: *"From now on, be concise. Give me direct answers without lengthy explanations unless I ask for them."* Claude will adjust immediately. You do not need to start over or switch models. This is one of the most practical and underused aspects of the Description competency — treating AI interaction as a dynamic, steerable conversation rather than a one-shot prompt.
 
 </details>
+
+---
+
+[⬅ Previous: Lesson 4 — A Closer Look at Delegation](./Lesson-04-A-Closer-Look-at-Delegation.md) · [🏠 Course Home](./README.md) · [Next: Lesson 7 — Effective Prompting Techniques ➡](./Lesson-07-Effective-Prompting-Techniques.md)

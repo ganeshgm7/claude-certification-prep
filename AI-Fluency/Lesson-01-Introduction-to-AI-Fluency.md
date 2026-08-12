@@ -1,5 +1,7 @@
 # Lesson 1 — Introduction to AI Fluency
 
+[🏠 Course Home](./README.md) · [Next: Lesson 2A — Why Do We Need AI Fluency? ➡](./Lesson-02A-Why-Do-We-Need-AI-Fluency.md)
+
 ---
 
 ### 📌 What Is This About?
@@ -152,3 +154,7 @@ Tactical skills like specific prompts or settings are useful today but can quick
 The most fundamental gap here is **Delegation** — jumping straight to "how do I use AI" without first asking "should AI be doing this at all, and what parts should it handle?" Without a clear vision of the goal and the human-AI split, even the best prompt will not lead to a well-designed system.
 
 </details>
+
+---
+
+[🏠 Course Home](./README.md) · [Next: Lesson 2A — Why Do We Need AI Fluency? ➡](./Lesson-02A-Why-Do-We-Need-AI-Fluency.md)
