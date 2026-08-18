@@ -27,10 +27,14 @@ You will first be asked to choose the **scope** of your subagent:
 
 Next, you choose how to create it. You can write the configuration manually, but the recommended approach is to let Claude generate it for you — just describe what you want the subagent to do, and Claude will produce a name, description, and system prompt based on your input.
 
+![Subagent creation flow in Claude Code](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773974844%2Fsubagentsvideo2version3_04.1773974843174.png)
+
 #### Customizing Tools
 During creation, you get the chance to customize which tools the subagent can access. The tool categories include: Read-only tools, Edit tools, Execution tools, MCP tools, and Other tools.
 
 Think about what your subagent actually needs. A code reviewer probably does not need edit tools — it should read and analyze code, not change it. However, you might want to keep execution tools enabled so it can more easily identify pending changes (like running `git diff`).
+
+![Tool category selection when creating a subagent](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773974881%2Fsubagentsvideo2version3_06.1773974881320.png)
 
 #### Choosing a Model and Color
 After configuring tools, you select which Claude model powers the subagent. The model picker offers four options:
@@ -40,6 +44,8 @@ After configuring tools, you select which Claude model powers the subagent. The 
 - **Inherit** — uses whatever model your main conversation is running.
 
 Finally, you pick a color. This shows up in the UI so you can quickly tell which subagent is active — a small touch, but it helps when you have multiple subagents running.
+
+![Model and color picker when creating a subagent](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773974921%2Fsubagentsvideo2version3_07.1773974921584.png)
 
 #### The Config File
 Once creation is complete, the subagent config file is saved into your project (typically at `.claude/agents/your-agent-name.md`). Here is what a typical subagent config looks like:
@@ -79,6 +85,8 @@ You can also add example conversations to the description to help Claude underst
 
 #### Testing Your Subagent
 After creating your subagent, test it by making some code changes and asking Claude to review them. If the subagent is not being used when you expect it to be, go back and check the description. Adding more specific examples and trigger scenarios helps Claude understand when to delegate work to your subagent.
+
+![Testing a newly created subagent in Claude Code](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773974991%2Fsubagentsvideo2version3_14.1773974991791.png)
 
 #### Recap
 Creating a subagent means making a directory (or file) with the proper config: choose a scope, let Claude generate a name/description/prompt, customize its tools, pick a model and color, then test and refine the description until it triggers reliably.

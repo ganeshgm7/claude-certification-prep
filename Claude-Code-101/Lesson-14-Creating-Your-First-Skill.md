@@ -52,10 +52,14 @@ Brief context on why this change is needed
 ```
 The **name** identifies your skill. The **description** tells Claude when to use it — this is the matching criteria. Everything after the second set of dashes is the instructions Claude follows when the skill is activated.
 
+![A completed SKILL.md file with frontmatter and instructions](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527260%2FSkills2_04.1771527260186.png)
+
 #### Testing Your Skill
 Claude Code loads skills at startup, so restart your session after creating one. You can verify it's available by checking the available skills list.
 
 To test it, make some changes on a branch and say something like "write a PR description for my changes." Claude will indicate it's using the PR description skill, check your diff, and write a description following your template — same format every time.
+
+![Verifying a new skill is available after restarting Claude Code](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527260%2FSkills2_05.1771527260555.png)
 
 #### How Skill Matching Works
 When Claude Code starts, it scans four locations for skills but only loads the **name and description** — not the full content. This is an important detail.
@@ -63,6 +67,8 @@ When Claude Code starts, it scans four locations for skills but only loads the *
 When you send a request, Claude compares your message against the descriptions of all available skills. For example, "explain what this function does" would match a skill described as "explain code with visual diagrams" because the intent overlaps.
 
 Once a match is found, Claude asks you to confirm loading the skill. This confirmation step keeps you aware of what context Claude is pulling in. After you confirm, Claude reads the complete `SKILL.md` file and follows its instructions.
+
+![Claude Code's confirmation prompt before loading a matched skill](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527261%2FSkills2_17.1771527261842.png)
 
 #### Skill Priority
 If you clone a repository that has a skill with the same name as one of your personal skills, which one wins? There's a clear priority order:

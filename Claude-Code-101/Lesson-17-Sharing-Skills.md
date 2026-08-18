@@ -30,6 +30,8 @@ Plugins are a way to extend Claude Code with custom functionality designed to be
 
 After you distribute your plugin to a marketplace, other users can discover and install it into Claude Code for themselves. This approach is best when your skills aren't too project-specific and can be useful to community members beyond your immediate team.
 
+![Distributing a skill to a marketplace via a plugin](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527270%2FSkills5_07.1771527270067.png)
+
 #### Enterprise Deployment Through Managed Settings
 Administrators can deploy skills organization-wide through managed settings. Enterprise skills take the highest priority — they override personal, project, and plugin skills with the same name.
 
@@ -47,6 +49,8 @@ The managed settings file supports features like `strictKnownMarketplaces` to co
 ]
 ```
 This is the right choice for mandatory standards, security requirements, compliance workflows, and coding practices that *must* be consistent across the organization. The keyword here is "must."
+
+![Enterprise managed settings deploying a skill organization-wide](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527270%2FSkills5_08.1771527270381.png)
 
 #### Skills and Subagents
 Here's something that surprises people: subagents don't automatically see your skills. When you delegate a task to a subagent, it starts with a fresh, clean context.
@@ -68,6 +72,8 @@ skills: accessibility-audit, performance-check
 ---
 ```
 When you delegate to this subagent, it has both skills loaded and applies them to every review. First make sure the skills exist in your `.claude/skills` directory, then either create a new subagent or add the `skills` field to an existing agent's markdown file.
+
+![A custom subagent's skills field listing which skills to load](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527270%2FSkills5_13.1771527270779.png)
 
 This pattern works really well when: you want isolated task delegation with specific expertise; different subagents need different skills (frontend reviewer vs. backend reviewer); you want to enforce standards in delegated work without relying on prompts.
 

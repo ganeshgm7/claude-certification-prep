@@ -45,6 +45,8 @@ If your personal skill is being ignored, an enterprise or higher-priority skill 
 1. Rename your skill to something more distinct (this is usually the easier path).
 2. Talk to your admin about the enterprise skill.
 
+![An enterprise skill taking priority over a personal skill with the same name](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527274%2FSkills6_12.1771527274623.png)
+
 #### Plugin Skills Not Appearing
 Installed a plugin but can't see its skills? Clear the cache, restart Claude Code, and reinstall. If skills still don't appear after that, the plugin structure might be wrong — this is when the validator tool really earns its keep.
 

@@ -44,6 +44,8 @@ model: sonnet
 ```
 When this skill is active, Claude can only use those tools (`Read`, `Grep`, `Glob`, `Bash`) without asking permission — no editing, no writing. If you omit `allowed-tools` entirely, the skill doesn't restrict anything; Claude uses its normal permission model.
 
+![The allowed-tools field restricting a skill's tool access](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527264%2FSkills3_17.1771527264166.png)
+
 #### Progressive Disclosure
 Skills share Claude's context window with your conversation. When Claude activates a skill, it loads the contents of that SKILL.md into context. But sometimes you need references, examples, or utility scripts that the skill depends on.
 
@@ -57,6 +59,8 @@ The open standard suggests organizing your skill directory with:
 Link to the supporting files from SKILL.md with clear instructions about when to load them. For example, Claude reads `architecture-guide.md` only when someone asks about system design — if they're asking where to add a component, it never loads that file. It's like having a table of contents in the context window rather than the entire document.
 
 A good rule of thumb: **keep SKILL.md under 500 lines**. If you're exceeding that, consider whether the content should be split into separate reference files.
+
+![Linking to supporting reference files from SKILL.md](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527265%2FSkills3_13.1771527265100.png)
 
 #### Using Scripts Efficiently
 Scripts in your skill directory can run without loading their contents into context. The script executes and only the output consumes tokens. The key instruction to include in your SKILL.md is to tell Claude to *run* the script, not *read* it.

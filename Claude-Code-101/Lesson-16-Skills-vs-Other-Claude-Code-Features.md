@@ -26,6 +26,8 @@ Skills load on demand. When Claude matches a request to a skill, that skill's in
 **Use CLAUDE.md for:** project-wide standards that always apply; constraints like "never modify the database schema"; framework preferences and coding style.
 **Use Skills for:** task-specific expertise; knowledge that's only relevant sometimes; detailed procedures that would clutter every conversation.
 
+![CLAUDE.md loading every conversation vs. a Skill loading on demand](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527266%2FSkills4_06.1771527266559.png)
+
 #### Skills vs Subagents
 Skills add knowledge to your current conversation. When a skill activates, its instructions join the existing context.
 

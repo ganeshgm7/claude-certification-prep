@@ -25,6 +25,8 @@ Skills are folders of instructions and resources that Claude Code can discover a
 
 The description is how Claude decides whether to use the skill. When you ask Claude to review a PR, it matches your request against available skill descriptions and finds the relevant one. Claude reads your request, compares it to all available skill descriptions, and activates the ones that match.
 
+![A skill's frontmatter with name and description fields](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527257%2FSkills1_05.1771527257795.png)
+
 Here's what a skill's frontmatter looks like:
 ```
 ---
@@ -46,6 +48,8 @@ Claude Code has several ways to customize behavior. Skills are unique because th
 - **CLAUDE.md** files load into every conversation. If you want Claude to always use TypeScript's strict mode, that goes in CLAUDE.md.
 - **Skills** load on demand when they match your request. Claude only loads the name and description initially, so they don't fill up your entire context window. Your PR review checklist doesn't need to be in context when you're debugging — it loads when you actually ask for a review.
 - **Slash commands** require you to explicitly type them. Skills don't. Claude applies them when it recognizes the situation.
+
+![Claude Code loading a matched skill in the terminal](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1771527259%2FSkills1_17.1771527259668.png)
 
 #### When to Use Skills
 Skills work best for specialized knowledge that applies to specific tasks:

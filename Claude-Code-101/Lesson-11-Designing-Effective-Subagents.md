@@ -23,12 +23,16 @@ When you send a message to the main context window agent, the name and descripti
 
 The description also plays a second role. When the main agent launches a subagent, it writes an input prompt to kick off the task, using the description as guidance. So the description doesn't just control *when* a subagent runs — it shapes *what the subagent is told to do*.
 
+![How the description shapes the subagent's input prompt](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773975083%2Fvid3redone-v2_02.1773975083694.png)
+
 #### Writing Descriptions That Shape Input Prompts
 Consider a code review subagent. With a generic description, the main agent might write an input prompt like "use git diff to find the current changes." That's vague — the subagent has to figure out which files matter on its own.
 
 If you update the description to include something like "You must tell the agent precisely which files you want it to review," the main agent will now write a much more specific input prompt that lists the actual files to review.
 
 This same technique works across different types of subagents. For example, adding "return sources that can be cited" to a web search subagent's description causes the main agent to include that instruction when delegating the task.
+
+![A second example of a description shaping the subagent's input prompt](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773975124%2Fvid3redone-v2_03.1773975124367.png)
 
 #### Defining an Output Format
 The single most important improvement you can make to a subagent is defining an output format in its system prompt. This does two things:
@@ -65,6 +69,8 @@ The way to get this information is to explicitly ask for it in the output format
    environment quirks. Report commands that needed a special flag or
    configuration. Report dependencies or imports that caused problems.
 ```
+
+![Example of an "Obstacles Encountered" section in a subagent's output format](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773975160%2Fvid3redone-v2_11.1773975160096.png)
 
 #### Limiting Tool Access
 Not every subagent needs access to every tool. Think about what a subagent actually needs to do, and only give it the tools required for that job. This does two things: it prevents unintended side effects, and it makes each subagent's role clearer when you have several of them.
